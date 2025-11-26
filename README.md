@@ -11,7 +11,7 @@ All required project documents are available in the **Documents** folder:
 
 | Document | Description | Link |
 |----------|-------------|------|
-| **Business Case** | Provides the justification, benefits, and feasibility of the project | [Open File](Documents/Business-Case.docx) |
+| **Business Case** | Provides the justification, benefits, and feasibility of the project | [Open File]([Documents/Business-Case.docx](https://github.com/Tuleenalshattel/Software-Project-Management-FIXIT-JO-/blob/2f77f8b30bac565e1642863fedf3a682a416cbad/Business%20case%20FIXIT%20JO.docx)) |
 | **Kickoff Meeting Report** | Summary of the kickoff meeting, team roles, agenda, and decisions | [Open File](Documents/Kickoff-Meeting.docx) |
 | **Project Charter** | Official authorization of the project including scope, objectives, team, and constraints | [Open File](Documents/Project-Charter.docx) |
 
